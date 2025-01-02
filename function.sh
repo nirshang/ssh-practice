@@ -3,3 +3,4 @@ Hello(){
     echo "Hello!!!"
 }
 echo "before calling function"
+Hello
